@@ -15,11 +15,7 @@ Programm erkennt Handgesten und mappt sie auf Media-Control-Tasten:
 
 ## Setup und Bedienung
 1. Navigiere in den Ordner "03-media_control"
-<<<<<<< HEAD
 2. Erstelle venv mit "python -m venv venv" und aktiviere es mit venv\scripts\activate
-=======
-2. Aktiviere venv mit venv\scripts\activate
->>>>>>> aba59ca (Assignment 5.3: Gestensteuerung für Media Controlls funktioniert (aber nur mit Recognition Window und einigen "false alarms", Erkennung der Art der Geste, wenn eine da ist, klappt gut))
 3. Installiere Abhängigkeiten aus "requirements.txt"
 4. Starte Anwendung mit "python media_control.py"
 5. Öffne ggf. Input-Fenster
